@@ -1,0 +1,48 @@
+body{
+    background-color: bisque;
+}
+.outerline{
+    border: 2px solid black;
+    width: 60%;
+    height: 750px;
+    border-radius: 15px;
+    margin: 0 auto;
+    margin-top: 100px;
+    background-color: rgb(55, 53, 53);
+    overflow: hidden;
+}
+.inside{
+    border: 2px solid black;
+    width: 90%;
+    margin: 0 auto;
+    height: 550px;
+    margin-top: 40px;
+    background-color: rgb(116, 113, 113);
+    overflow: hidden;
+}
+.rooster{
+    width: 40%;
+    height: 100px;
+    background-color: rgb(116, 113, 113);
+    margin: 0 auto;
+    margin-top: 70px;
+    border-radius: 10px;
+}
+.buttongreen{
+    width: 75px;
+    height: 75px;
+    background-color: rgb(9, 207, 68);
+    border: 2px solid black;
+    margin-top: -100px;
+    border-radius: 50%;
+    /* margin-left: 700px; */
+    cursor: pointer;
+    float: right;
+    margin-right: 50px;
+}
+.buttongreen:hover{
+    background-color: rgb(15, 115, 45);
+}
+.vid1{
+    width: 100%;
+}
